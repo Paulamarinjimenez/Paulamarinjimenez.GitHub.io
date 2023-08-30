@@ -1,4 +1,4 @@
-# Web excercise 1
+# Paula Marin Jimenez
 ### I chose this data set
 <a href="https://datahub.io/core/covid-19"> My Data Set </a>
 ### I chose this book!
