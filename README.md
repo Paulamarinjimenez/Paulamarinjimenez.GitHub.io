@@ -1,5 +1,5 @@
 # Web excercise 1
+### I chose this data set
 <a href="https://github.com/datasets/covid-19.git"> My Data Set </a>
-# I chose this data set
+### I chose this book!
 <a href="https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf"> The book i chose </a>
-# I chose this book!
